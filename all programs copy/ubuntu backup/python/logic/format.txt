@@ -1,0 +1,18 @@
+name,#inputs,#outputs,truth table\n
+(\n IS DELIMITER)
+
+truth table
+
++--+-+
+|I |O|
++--+-+
+|00|0|
+|01|1|   this table =  00;01;10;11.0;1;1;1  
+|10|1|
+|11|1|
++--+-+
+
+eg
+
+or,2,1,00;01;10;11.0;1;1;1
+

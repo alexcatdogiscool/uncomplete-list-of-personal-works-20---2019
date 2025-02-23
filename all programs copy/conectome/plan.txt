@@ -1,0 +1,4 @@
+organism is a circle that has tank movement.
+it has 2 noses that can smell food and the front and 6 touch sensors around its body.
+it has taste to tell it if it has collected food
+it has an internal hunger level, if this drops to 0, it dies

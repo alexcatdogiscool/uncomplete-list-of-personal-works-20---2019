@@ -1,0 +1,105 @@
+:Base 2dpcb32.hlp
+1 Introduction
+2 Software Overview=overview
+2 System Requirements=systemrequirements
+1 Getting Started
+2 Getting Started=gettingstarted
+2 About this Help=abouthelp
+1 2D PCB Tutorials
+2 2D PCB Tutorial 1 - Screen Layout, Menu Selection, etc.=pcbtutorial1
+2 2D PCB Tutorial 2 - Setting Up the Software to Suit Your System=pcbtutorial2
+2 2D PCB Tutorial 3 - Basic Circuit Drawing=pcbtutorial3
+2 2D PCB Tutorial 4 - Layers=pcbtutorial4
+2 2D PCB Tutorial 5 - Drawing Tools=pcbtutorial5
+2 2D PCB Tutorial 6 - Object Selection and the Marquee Box=pcbtutorial6
+2 2D PCB Tutorial 7 - Transformations=pcbtutorial7
+2 2D PCB Tutorial 8 - Advanced Editing of Tracks=pcbtutorial8
+2 2D PCB Tutorial 9 - Changing Track Width, Pad Properties and Layers=pcbtutorial9
+2 2D PCB Tutorial 10 - Text=pcbtutorial10
+2 2D PCB Tutorial 11 - PCB Manufacture By Photo-Etching=pcbtutorial11
+2 2D PCB Tutorial 12 - PCB Manufacture By Knife Cutting=pcbtutorial12
+2 2D PCB Tutorial 13 - PCB Manufacture By Engraving/Milling=pcbtutorial13
+2 2D PCB Tutorial 14 - Component Libraries and Creating New Pads=pcbtutorial14
+1 Basic Topics
+2 Screen Layout
+3 Top Information Area=HIDW_TOPAREA
+3 Main Prompt=mainprompt
+3 Drawing Area=drawingarea
+3 Background Area=backgroundarea
+3 Scroll bars=scrollbars
+3 Draw/Edit Toolbox=HIDW_TOOLS1
+3 Drawing Aids Toolbox=HIDW_TOOLS2
+3 PCB Layers Toolbox=HIDW_TOOLS5
+3 Edit Mode Toolbox=HIDW_TOOLS3
+3 Path Segment Toolbox=HIDW_TOOLS4
+3 Upper Icon Toolbar=AFX_HIDW_TOOLBAR
+3 Bottom Information Area=HIDW_BOTAREA
+3 Help Message=HIDW_HELPMESTIT
+1 Attributes Bar=attribbar
+1 Pull-out Toolbars=pullouttoolbar
+1 Associated Dialog Boxes=dialogsettings
+1 Board Area=boardarea
+1 Coordinate Origin=userorigin
+1 The Last Point=lastpoint
+1 How to Locate=locate
+1 Cancelling the Last Locate=cancellocate
+1 Aborting the Current Drawing Routine=HID_KEYESC
+1 Coordinate Data Entry=coorddataentry
+1 Units and Entering Values=unitsgeneral
+1 Keyboard Use=keyboarduse
+1 Selecting Objects=selection
+1 Marquee Box=marqueebox
+1 Edit Mode=editmode
+1 Layers=layers
+1 Working with Component Libraries=libraries
+1 Creating New Pads=newpads
+1 Password protection=password
+1 Software Licence=licence
+1 Fills Overview
+2 Fills=fills
+2 Graduated Fills=graduatedfillsdes
+1 Font Overview
+2 Windows Outline Fonts and TechSoft Fronts=fonts
+1 Bitmap Overview
+2 What is a Bitmap?=bitmap
+2 What is the Difference between Bitmap Data and Vector Data?=bitmapvectorpcb
+2 Where Can I Get Bitmaps From?=bitmapfrompcb
+2 How Can I Use Bitmaps?=bitmapgraphicallypcb
+2 Is the Size of a Bitmap File Significant?=bitmapfilesizepcb
+2 What is a Transparent Colour and Tolerance?=bitmapbackgroundpcb
+2 RGB Values=RGBpcb
+2 HSL Values=HSLpcb
+1 Combining Designs
+2 Combining Designs=combiningdesigns
+1 Clipart and Links with Other Software
+2 Clipart=clipart
+2 Links with Other Software=links
+2 Link with Circuit Wizard=pcbwizard
+1 Data Structure
+2 Objects=objects
+2 Groups=groups
+2 Layers=layers
+2 Exploding Objects=explodingobjects
+1 Output Overview
+2 Ouput Overview=outputting
+2 PCB Manufacture By Photo-Etching=printingpcb
+2 PCB Manufacture By Knife Cutting=vinylcutterspcb
+2 PCB Manufacture By Engraving/Milling=engraverspcb
+2 Tools=penstools
+1 Customising the Software
+2 Setups=setups
+2 Setup Options=setupoptionspcb
+2 Loading and Saving Setups=loadsavesetupspcb
+2 Restoring Factory Defaults=restorefactorydefaultspcb
+1 Network Managers
+2 Changing the Initial Directory for Loading and Saving=initialdirectorypcb
+2 Managing Fonts=managingtechsoftfontspcb
+2 Customising the INI File=inifilepcb
+1 Menus
+2 File menu=HIDM_FILE
+2 Edit menu=HIDM_EDIT
+2 Draw menu=HIDM_DRAW
+2 View menu=HIDM_VIEW
+2 Setup menu=HIDM_SETUP
+2 Window menu=HIDM_WINDOW
+2 Help menu=HIDM_HELP
